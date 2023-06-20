@@ -13,20 +13,20 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad eos,
-          obcaecati nobis sint laboriosam quis porro est pariatur libero autem
-          facilis eligendi expedita accusantium. Mollitia totam eligendi illum
-          obcaecati molestias fugiat saepe non, sed aut magnam nisi assumenda
-          numquam, ullam ad laudantium. Unde, eligendi asperiores?
+          As an exceptionally skilled computer engineering student and a
+          passionate expert in frontend web development, I possess a remarkable
+          aptitude for crafting robust and innovative software solutions. My
+          expertise lies in seamlessly blending technical prowess with creative
+          thinking to deliver cutting-edge applications.
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum
-          doloremque nulla, sapiente consequatur voluptates adipisci repellendus
-          sequi aspernatur? Quas suscipit necessitatibus nisi harum obcaecati
-          fugiat odit molestias dolor, ipsam nostrum architecto numquam eveniet
-          sed ipsum maxime ullam! Voluptatum sunt dolore quisquam doloremque
-          deserunt labore dignissimos omnis officia! Voluptatum, at temporibus!
+          With a solid background in computer engineering, I have acquired a
+          comprehensive understanding of diverse programming languages, data
+          structures, algorithms, and computer hardware. This knowledge empowers
+          me to delve into the inner workings of software systems, enabling me
+          to optimize performance, implement efficient algorithms, and leverage
+          the latest advancements in technology.
         </p>
       </div>
     </div>
